@@ -1,3 +1,5 @@
+<div style="background: url('https://github.com/OlivierZiolkowski/OlivierZiolkowski/blob/main/img/jon-tyson-t2cp_cWMo3o-unsplash%20(1).jpg') cover / center no-repeat">
+
 # 👋 Salut Monde !
 
 ##  Qui suis-je ?
@@ -11,6 +13,7 @@ Je m'appelle Olivier Ziolkowski et je suis développeur web !
 -  Visitez mon profil LinkedIn : [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olivier-ziolkowski/)
 - 📫 Envoyez-moi un e-mail : [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:olivier.ziolkowski@gmail.com)
 
+ </div>
 <!---
 OlivierZiolkowski/OlivierZiolkowski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
