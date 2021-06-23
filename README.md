@@ -1,3 +1,5 @@
+![COVER](https://github.com/OlivierZiolkowski/OlivierZiolkowski/blob/main/img/Olivier%20Ziolkowski.png)
+
 # 👋 Salut Monde !
 
 ##  Qui suis-je ?
