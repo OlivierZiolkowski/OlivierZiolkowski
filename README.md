@@ -3,8 +3,8 @@
 # 👋 Salut Monde !
 
 ##  Qui suis-je ?
-Je m'appelle Olivier Ziolkowski et je suis un développeur web à Arras (62), France !
-🌱 Je suis toujours en quête d'améliorations dans ma pratique et avide de nouvelles connaissances : je cherche 🔍, je lis la doc 📖, j'essaie 🤓, j'échoue 🤔, je recommence 🔄, je réussis 💪 etc...
+Je m'appelle Olivier Ziolkowski et je suis un développeur web vivant dans les Hauts-de-France ⬆ !
+Je suis toujours en quête d'améliorations dans ma pratique et avide de nouvelles connaissances : je cherche 🔍, je lis la doc 📖, j'essaie 🤓, j'échoue 🤔, je recommence 🔄, je réussis 💪 etc...
 
 ## 💾 Technologies
 ### Web dev
