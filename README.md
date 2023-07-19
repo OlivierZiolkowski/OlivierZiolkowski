@@ -5,7 +5,7 @@
 ##  Qui suis-je ?
 Je m'appelle Olivier Ziolkowski et je suis un développeur web vivant dans les Hauts-de-France ⬆ !
 Je suis toujours en quête d'améliorations dans ma pratique et avide de nouvelles connaissances : je cherche 🔍, je lis la doc 📖, j'essaie 🤓, j'échoue 🤔, je recommence 🔄, je réussis 💪 etc...
-Je suis tuteur pédagogique et développeur web pour l'école O'Clock depuis 2022.
+Je suis tuteur pédagogique et développeur web pour l'école O'Clock depuis Mars 2022.
 
 ## 💾 Technologies
 ### Web dev
