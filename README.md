@@ -1,11 +1,13 @@
 ![COVER](https://github.com/OlivierZiolkowski/OlivierZiolkowski/blob/main/img/Olivier%20Ziolkowski.png)
 
-# 👋 Salut Monde !
+# 👋 Hello World !
 
-##  Qui suis-je ?
-Je m'appelle Olivier Ziolkowski et je suis un développeur web vivant dans les Hauts-de-France ⬆ !
-Je suis toujours en quête d'améliorations dans ma pratique et avide de nouvelles connaissances : je cherche 🔍, je lis la doc 📖, j'essaie 🤓, j'échoue 🤔, je recommence 🔄, je réussis 💪 etc...
-Je suis tuteur pédagogique et développeur web pour l'école O'Clock depuis Mars 2022.
+##  Who I am
+🚀 **Hey there, I'm Olivier!** A web developer 🌐 based in the Hauts-de-France region ⬆. My journey is painted in code colors: exploration 🔍, continuous learning 📚, daring experimentation 🧪, unwavering determination 🔄, and triumphant success 💪! My insatiable curiosity for all things development constantly drives me to expand my horizons, dive into documentation 📖, and conquer each challenge with boundless enthusiasm 🌟.
+
+Since 2020, I've been crafting my skills in the vast realm of the web, and since March 2022, I've been proudly serving as a pedagogical tutor and developer at O'Clock School 🕒. My true passion lies in teaching, sharing my knowledge, and guiding others through their journey of transitioning or advancing in the digital world.
+
+Step into my code universe with a warm welcome! ✨
 
 ## 💾 Technologies
 ### Web dev
@@ -17,7 +19,7 @@ Je suis tuteur pédagogique et développeur web pour l'école O'Clock depuis Mar
 ### Design
 ![CANVA](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white) ![ILLUSTRATOR](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![IN DESIGN](https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white)
 
-## Contactez-moi
+## Contact
 -  Visitez mon profil LinkedIn : [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olivier-ziolkowski/)
 - 📫 Envoyez-moi un e-mail : [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:olivier.ziolkowski@gmail.com)
 
